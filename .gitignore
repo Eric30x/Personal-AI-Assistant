@@ -1,0 +1,23 @@
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Personal data
+tasks.json
+task.json
+checkpoint.json
+checkpoint.tmp
